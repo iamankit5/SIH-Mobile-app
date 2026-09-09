@@ -24,6 +24,89 @@
 
 ---
 
+## 📲 Download the App
+
+<div align="center">
+
+<a href="https://i.diawi.com/fHknNN">
+  <img src="https://img.shields.io/badge/Download%20APK-Install%20Now-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+</a>
+
+**Scan the QR code below to install directly on your Android device:**
+
+<img src="images/download_qr_code.png" alt="Download QR Code" width="220" />
+
+<br/>
+
+🔗 **Direct Link:** [https://i.diawi.com/fHknNN](https://i.diawi.com/fHknNN)
+
+> **Note:** Allow installation from unknown sources on your Android device when prompted.
+
+</div>
+
+---
+
+## 📸 App Screenshots
+
+<div align="center">
+
+### 🏠 Dashboard & Cargo Configuration
+
+| Cargo & Route Parameters | AI Executive Summary |
+|:---:|:---:|
+| <img src="images/01_cargo_route_parameters.jpg" alt="Cargo & Route Parameters" width="280" /> | <img src="images/02_ai_executive_summary.jpg" alt="AI Executive Summary" width="280" /> |
+| Configure voyage requirements, material type, port lanes, and bunker fuel pricing source | AI-generated procurement recommendation with confidence scoring and charter action advisory |
+
+---
+
+### 🚛 Vessel Intelligence & Cost Analysis
+
+| Vessel Suitability Ranking | Detailed Cost Breakdown |
+|:---:|:---:|
+| <img src="images/03_vessel_suitability_ranking.jpg" alt="Vessel Suitability Ranking" width="280" /> | <img src="images/04_vessel_cost_breakdown.jpg" alt="Vessel Cost Breakdown & Timing" width="280" /> |
+| AI-scored vessel class ranking with port draft clearance, capacity fit, and cost comparison | Per-vessel charter, fuel, port/canal, and demurrage cost breakdown with timing decision matrix |
+
+---
+
+### 📈 Forecasting & Simulation
+
+| Freight Forecast & Timing | What-If Simulator |
+|:---:|:---:|
+| <img src="images/05_freight_forecast_timing.jpg" alt="Freight Forecast & Timing Analysis" width="280" /> | <img src="images/06_whatif_simulator.jpg" alt="What-If Simulator" width="280" /> |
+| Multi-horizon freight rate forecast with historical benchmark, AI prediction, and procurement timing matrix | Simulate bunker price shifts, market rate changes, and cargo quantity impact on fleet rankings |
+
+---
+
+### 🌍 Route & Weather Intelligence
+
+| Interactive 3D Globe | Weather & Risk Assessment |
+|:---:|:---:|
+| <img src="images/07_interactive_globe_route.jpg" alt="Interactive 3D Globe & Route" width="280" /> | <img src="images/08_weather_risk_intelligence.jpg" alt="Weather & Risk Intelligence" width="280" /> |
+| 3D orthographic globe with great-circle shipping corridor, ocean distance, transit duration, and fuel burn estimates | Live 5-day port weather forecast, voyage risk scoring, and anomaly detection for both origin and destination ports |
+
+---
+
+### ⛽ Bunker Fuel Intelligence
+
+| Bunker Fuel Overview | Macro Indicators & Validation |
+|:---:|:---:|
+| <img src="images/09_bunker_fuel_overview.jpg" alt="Bunker Fuel Overview" width="280" /> | <img src="images/10_bunker_macro_indicators.jpg" alt="Bunker Macro Indicators" width="280" /> |
+| Live telemetry with VLSFO/HSFO/MGO bunker spot pricing, multi-horizon ML forecast projections | Exogenous macro indicators (Brent, WTI, DXY, Natural Gas, BDI) and model validation error benchmarks |
+
+---
+
+### 🔬 Model Transparency
+
+<div align="center">
+<img src="images/11_model_validation_benchmarks.jpg" alt="Model Validation & Error Benchmarks" width="280" />
+
+**Model Validation & Error Benchmarks** — Prophet + XGBoost ensemble performance with MAE, RMSE, and MAPE metrics
+</div>
+
+</div>
+
+---
+
 ## 📌 The Problem We're Solving
 
 SAIL procures massive volumes of raw material — coal, iron ore, coking coal — shipped in from Australia, the US, Mozambique, Russia, and Indonesia to ports on India's East Coast.
